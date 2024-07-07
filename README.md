@@ -25,7 +25,7 @@ Negative Sentiment Word Cloud:
 
 ![neagative_wordcloud](https://github.com/roshan02kc/McMaster_google_review/assets/113552978/1f4364dc-4013-40db-ac0e-847b44c093d8)
 
-Emoji Analysis
+Emoji Analysis:
 Analyzing emojis used in the reviews provided additional insights into sentiment:
 
 Top Emojis Used:
