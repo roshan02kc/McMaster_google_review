@@ -6,13 +6,17 @@ I recently undertook a sentiment analysis of McMaster University's Google review
 Sentiment Analysis
 Using TextBlob, I computed sentiment polarity for each review to gauge overall sentiment. I categorized positive comments as those with a polarity score above 0.5, while negative ones were below -0.5.
 
-Top Positive Comments: 				Top Negative Comments:
- ![image](https://github.com/roshan02kc/McMaster_google_review/assets/113552978/8ec54928-6c25-4f76-a88f-7a7b01238e93) ![image](https://github.com/roshan02kc/McMaster_google_review/assets/113552978/0d2ac2f9-6631-4b42-b581-7645b675ce4c) 
+Top Positive Comments: 				
+ ![image](https://github.com/roshan02kc/McMaster_google_review/assets/113552978/8ec54928-6c25-4f76-a88f-7a7b01238e93) 
+ Top Negative Comments:
+ ![image](https://github.com/roshan02kc/McMaster_google_review/assets/113552978/0d2ac2f9-6631-4b42-b581-7645b675ce4c) 
 
 Word Cloud Analysis
 Using WordCloud, I visualized the most frequently occurring words in both positive and negative reviews:
-Positive Sentiment Word Cloud: 		Negative Sentiment Word Cloud: 
-  ![positive_wordcloud](https://github.com/roshan02kc/McMaster_google_review/assets/113552978/b9ff4799-3a8d-4126-a60d-ef42435e9c69) ![neagative_wordcloud](https://github.com/roshan02kc/McMaster_google_review/assets/113552978/1f4364dc-4013-40db-ac0e-847b44c093d8)
+Positive Sentiment Word Cloud: 		 
+  ![positive_wordcloud](https://github.com/roshan02kc/McMaster_google_review/assets/113552978/b9ff4799-3a8d-4126-a60d-ef42435e9c69) 
+  Negative Sentiment Word Cloud:
+  ![neagative_wordcloud](https://github.com/roshan02kc/McMaster_google_review/assets/113552978/1f4364dc-4013-40db-ac0e-847b44c093d8)
 
 Emoji Analysis
 Analyzing emojis used in the reviews provided additional insights into sentiment:
